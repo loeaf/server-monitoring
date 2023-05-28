@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-rcp /home/root/script/systemStateCron.py root@127.0.0.1:script/systemStateCron.py
-=======
 rcp /home/root/script/systemStateMonitor.py root@127.0.0.1:script/systemStateMonitor.py
->>>>>>> 61e3879... 시스템 모니터링 코드 작성
