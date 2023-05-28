@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ssh root@127.0.0.1  '(crontab -l 2>/dev/null; echo "5 * * * * python3 /home/root/script/systemStateCron.py > /home/root/script/systemStateCron.log") | crontab -'
+=======
+ssh root@127.0.0.1  '(crontab -l 2>/dev/null; echo "5 * * * * python3 /home/root/script/systemStateMonitor.py > /home/root/script/systemStateMonitor.log") | crontab -'
+>>>>>>> 61e3879... 시스템 모니터링 코드 작성

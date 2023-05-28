@@ -1,0 +1,1 @@
+rcp /home/root/script/systemStateMonitor.py root@127.0.0.1:script/systemStateMonitor.py
